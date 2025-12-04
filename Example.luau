@@ -5,6 +5,7 @@ local InterfaceManager = loadstring(game:HttpGetAsync("https://raw.githubusercon
 local Window = Library:CreateWindow{
     Title = `Fluent {Library.Version}`,
     SubTitle = "by Actual Master Oogway",
+    DiscordInvite = "https://discord.gg/xenithhub", 
     Icon = "rbxassetid://73279743336555", -- Custom icon at top left
     TabWidth = 160,
     Size = UDim2.fromOffset(830, 525),
